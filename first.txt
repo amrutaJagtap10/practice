@@ -1,5 +1,5 @@
 This is First file.
-THIS MASTER BRANCH 
+THIS MASTER BRANCH. 
 This is First file present in first branch
 
 This is First file present in second branch.
