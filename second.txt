@@ -1,2 +1,5 @@
 This is second file.
 THIS IS MASTER BRANCH
+This is second file present in first branch.
+This is second file present in second branch
+
