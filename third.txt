@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 This is third file present in first branch.
-=======
 This is third file present in second branch.
->>>>>>> second
+
