@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is fourth file present in first branch.
+=======
+This is fourth file present in second branch.
+>>>>>>> second

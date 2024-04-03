@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is fifth file present in first branch.
+=======
+This is fifth file present in second branch.
+>>>>>>> second
